@@ -36,6 +36,7 @@ I have made some basic progress in implementing a graph data structure. The back
 **Recursion/dynamic programming with memoization**:<br>
 - Think Python by Allen B. Downey<br>
 - http://www.thelearningpoint.net/<br>
+
 **Graph Data Structure**:<br>
 - https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
 
