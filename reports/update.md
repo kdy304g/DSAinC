@@ -47,5 +47,7 @@ I am working on refining the hash function testing library and also developing a
 I am also attempting to create more clever ways visualize the effectiveness vs. efficiency of the hash functions.
 
 Danny<br>
-I will continue working on implementing algorithms and solving problems. 
+I will continue working on implementing algorithms and solving problems. <br>
 
+**link to our trello board**: <br>
+https://trello.com/b/bGoEATK4/betterhash
