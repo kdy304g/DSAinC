@@ -1,6 +1,6 @@
 # Team BetterHash Implementation of DSA in C/C++
 ### Danny Kang, Manu Patil
-### Software Systems SP19
+
 ## Goal
 Our initial goal was to dig deeper into hash functions and try to come up with better hashing algorithm for data, more specifically, strings. However, we came to realize that there are deep cryptography related into those hashes so we decided to end with making testing program for different hash functions to look at collision rate and time to run each hashes. Now, we are moving to next step, which is learning about implementation of dynamically programmed recursion and also memoization to reduce time complexity of those implementations. The lower bound to achieve would be implementing algorithms such as fibonacci or solving some interestingly challenging problems about dynamic programming. We are also excited to have weekly study sessions to go over these concepts and solve those problems. 
  
@@ -26,22 +26,23 @@ I have made some basic progress in implementing a graph data structure. The back
 
 ## Resources
 **Learning hash functions**:
-https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
-https://en.wikipedia.org/wiki/Jenkins_hash_function<br>
-Visualizing result:<br>
-https://www.gtk.org/<br>
+- https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
+- https://en.wikipedia.org/wiki/Jenkins_hash_function<br>
+**Visualizing result**:<br>
+- https://www.gtk.org/<br>
 
-Recursion/dynamic programming with memoization:<br>
-Think Python by Allen B. Downey<br>
-http://www.thelearningpoint.net/<br>
-Graph Data Structure:<br>
-https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
+**Recursion/dynamic programming with memoization**:<br>
+- Think Python by Allen B. Downey<br>
+- http://www.thelearningpoint.net/<br>
+**Graph Data Structure**:<br>
+- https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
 
 ## Future Steps
 
-Manu is working on refining the hash function testing library and also developing a graph data structure visualizer. This task will be completed when the graph data structure can visualize different path finding algorithms at work. I am currently exploring the GTK library and attempting to come up with an effective way to visualize a graph data structure. 
+Manu<br> 
+I am working on refining the hash function testing library and also developing a graph data structure visualizer. This task will be completed when the graph data structure can visualize different path finding algorithms at work. I am currently exploring the GTK library and attempting to come up with an effective way to visualize a graph data structure. 
 I am also attempting to create more clever ways visualize the effectiveness vs. efficiency of the hash functions.
 
-Danny
+Danny<br>
 I will continue working on implementing algorithms and solving problems. 
 
