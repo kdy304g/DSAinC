@@ -6,7 +6,9 @@ Our initial goal was to dig deeper into hash functions and try to come up with b
  
 ## Learning Goals
 **Understanding DSA better**: Our general learning goals were to learn more about data structures and algorithms in C. We initially intended to implement a couple different data structures. By implementing several different data structures and algorithms ( such as hash tables, graph data structures, recursion). We hoped to gain a deeper understanding of this content and we have succeeded so far. We hope to continue our progress for the second half of the project. <br>
+
 **Understanding C better**: We hoped to gain more skills and knowledge in the language C itself while implementing above data structures and algorithms. So far, we feel more comfortable working with pointers and C specific syntaxes. <br>
+
 **Increase problem solving technique/ability**: We decided that solving problems related to dynamic programming and recursion would significantly boost our problem approach/solving ability. There are tons of problems online that we could tackle and good things about this project is that we can work on those together to improve on our communication/solving skills.
  
  
