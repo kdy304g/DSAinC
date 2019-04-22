@@ -13,10 +13,10 @@ Our initial goal was to dig deeper into hash functions and try to come up with b
  
  
 ## Progress
-**Testing hash functions**: <br>
+**Testing hash functions**: Danny<br>
 I wrote test.c program that uses several hash functions to hash data of randomly generated strings and count the number of collisions to assess the efficiency of each hashing algorithm. We have found certain hashing technique to be far superior over others. Most of them were done by assigning int value to variable ‘hash’. The value of ‘hash’ is determined mostly by bit operations and some additions and multiplications. The worst hashing function that we found was using XOR bit operator within a while loop that iterates over integers.
 
-**Visualization of test**: <br>
+**Visualization of test**: Manu<br>
 The first visualization of the data was done using python. I mimicked the graph used for the cache example from a couple classes ago. With this visualization I was able to complete the speed testing API. One can see in the visualization how the different hash functions work over different sized sets of data. I am still working on a bit of refinement of this as i am not satisfied with the initial implementation of it. I am also trying to implement a couple more time consuming hash algorithms to better contrast the data. 
 
 **Implementation of recursion/solving problems**: Danny<br>
