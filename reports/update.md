@@ -30,6 +30,7 @@ I have made some basic progress in implementing a graph data structure. The back
 **Learning hash functions**:
 - https://www.tutorialspoint.com/data_structures_algorithms/index.htm<br>
 - https://en.wikipedia.org/wiki/Jenkins_hash_function<br>
+
 **Visualizing result**:<br>
 - https://www.gtk.org/<br>
 
