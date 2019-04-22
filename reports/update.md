@@ -13,16 +13,16 @@ Our initial goal was to dig deeper into hash functions and try to come up with b
  
  
 ## Progress
-**Testing hash functions**: Danny
+**Testing hash functions**: <br>
 I wrote test.c program that uses several hash functions to hash data of randomly generated strings and count the number of collisions to assess the efficiency of each hashing algorithm. We have found certain hashing technique to be far superior over others. Most of them were done by assigning int value to variable ‘hash’. The value of ‘hash’ is determined mostly by bit operations and some additions and multiplications. The worst hashing function that we found was using XOR bit operator within a while loop that iterates over integers.
 
-**Visualization of test**: Manu 
+**Visualization of test**: <br>
 The first visualization of the data was done using python. I mimicked the graph used for the cache example from a couple classes ago. With this visualization I was able to complete the speed testing API. One can see in the visualization how the different hash functions work over different sized sets of data. I am still working on a bit of refinement of this as i am not satisfied with the initial implementation of it. I am also trying to implement a couple more time consuming hash algorithms to better contrast the data. 
 
-**Implementation of recursion/solving problems**: Danny
+**Implementation of recursion/solving problems**: Danny<br>
 After talking to our instructor, I got excited about implementing recursion and famous algorithms in C as much as time allows. Some initial ideas are Fibonacci and Tower of Hanoi. Starting from there, I would also apply concepts of memoization and dynamic programming to make the implementation more efficient in terms of time complexity. When these are done, I would be happy to move on to more challenging problems related to dynamic programming that could be implemented in C within reasonable amount of time and devotion. 
 
-**Graph Data Structure**: Manu
+**Graph Data Structure**: Manu<br>
 I have made some basic progress in implementing a graph data structure. The back end implementation is relatively straight-forward. I have decided to spend more of my time developing a visualization of the structure to better see how path finding algorithms work out with it. 
 
 
